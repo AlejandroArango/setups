@@ -1,0 +1,9 @@
+git init
+git status (visualizar estatus de los archivos)
+nano .gitignore (abre un archivo de nombre .gitignore ctrl O save ctrl x exit)
+
+git remote add origin <url global repository>
+git pull origin master (bajar las cosas del repositorio)
+git add .
+git commit -m "comentario"
+git push origin master
